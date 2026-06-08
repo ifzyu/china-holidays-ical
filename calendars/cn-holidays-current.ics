@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//China Holidays//NONSGML China Holidays iCal//CN
 CALSCALE:GREGORIAN
-X-WR-CALNAME:中国官方节假日 (当前年)
+X-WR-CALNAME:中国官方节假日
 
 BEGIN:VEVENT
 UID:cn-2026-new-year@china-holidays
