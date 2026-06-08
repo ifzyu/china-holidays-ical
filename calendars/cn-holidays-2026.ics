@@ -2,8 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//China Holidays//NONSGML China Holidays iCal//CN
 CALSCALE:GREGORIAN
-X-WR-CALNAME:中国官方节假日 2026
-X-WR-CALDESC:中国官方节假日和调休日期安排 - 2026年
+X-WR-CALNAME:中国官方节假日 (2026)
 
 BEGIN:VEVENT
 UID:cn-2026-new-year@china-holidays
